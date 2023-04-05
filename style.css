@@ -1,3 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 .cabecalho{
     background-color: #000000;
     color: white;
@@ -42,4 +46,8 @@
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 300px;
 }
