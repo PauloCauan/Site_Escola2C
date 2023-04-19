@@ -70,3 +70,23 @@ body{
     text-align: center;
     padding: 24px 0;
     }
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.rodape{
+
+    background-color: black;
+    
+    text-align: center;
+    
+    }
+    
+    .rodape-imagem{
+    
+    height: 50px;
+    
+    padding: 12px 0;
+    
+    }
